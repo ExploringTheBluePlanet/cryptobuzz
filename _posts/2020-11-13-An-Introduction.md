@@ -13,4 +13,4 @@ Now you might be thinking that I'm not qualified to lecture you on this topic be
 
 <!--more-->
 
-*Read my stuff.*
+*Read some of my stuff. I'd appreciate it.*
