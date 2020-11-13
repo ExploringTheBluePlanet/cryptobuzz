@@ -12,7 +12,7 @@ lang: en-US
 title: "CryptoBuzz"
 
 # A description of your site for meta tag, search engine results.
-description: "CryptoBuzz is the best place all the crypto news you need - Bitcoin, Etherium, Ripple we talk about it so that you can investments you won't regret."
+description: "CryptoBuzz is the best place for all the crypto news you need - Bitcoin, Etherium, Ripple we talk about it so that you can make investments you won't regret."
 
 # The subpath of your site, e.g. /blog, for generating urls.
 baseurl: ""
